@@ -37,8 +37,8 @@
         
         <section class="text-center bg-blue-100 p-6 mt-8">
           <h2 class="text-2xl font-bold mb-4">Want to Work With Us?</h2>
-          <p>We are always looking for new opportunities to collaborate.</p>
-          <button class="bg-blue-500 text-white py-2 px-4 rounded">Contact Us</button>
+          <p class="mb-2">We are always looking for new opportunities to collaborate.</p>
+          <button class="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 bg-blue-500 text-white py-2 px-4 rounded">Contact Us</button>
         </section>
       </main>
       
